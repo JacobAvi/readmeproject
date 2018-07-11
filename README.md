@@ -14,6 +14,7 @@
 * **Trello**
   * Trello is a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what's being worked on, who's working on what, and where something is in a process. We will be using this throughout the project to track who is working on what and what is being worked on, so there is no overlap.
 
+* **MongoDB** is the database used in our application. Our client already uses this so we will continue to do the same for consistency.
 ---
 
 ### 11. Identify the database to be used in your app and provide a justification for your choice.
