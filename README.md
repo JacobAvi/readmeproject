@@ -1,6 +1,30 @@
-
 ### THIS IS README ME ###
 ---
+
+### 14. Provide User stories for your App.
+**Volunteer Stories**
+* As a bike mechanic, I need to be able to order parts quickly and easily so I have more time to fix bikes and help others learn to fix bikes
+* As a unemployed cycling lover I like to volunteer at back2bikes to learn to fix bikes so that I can improve my skills and help the community. I get left alone while parts get ordered on our slow computer when I'd rather have help
+
+**Shop Manager**
+* As an experienced manager I don't want my process to change too much so I can continue building relationships with customers
+* An an experienced manager I dislike our show ordering process, accessing a slow website on a slow computer as it takes too much time out of my day
+* As an experienced manager I find it difficult to explain the price we charge to customers as they can see the wholesale price when we are putting an order through
+* As a shop manager, I would like to save parts that need to be ordered throughout a day everyday so I can confirm the order with the wholesaler only once or twice a week at max
+* As a shop Manager, I would like to review the order before I confirm it, so I can amend quantity and be able to remove items if they are not needed anymore
+* As a shop manager, I would like to be able to quickly distinguish whether I am on searching parts page or reviewing order list so I don't waste my time looking for a parts in the wrong place
+* As a shop manager I would like to be able to see the total wholesale price for the order, so that I can see if I am within spending budget
+* As a new assistant manager I would like to quickly search for an item using item number and add it to shop ordering cart, so I don't forget to order it later
+
+**Back2Bikes Owner**
+* As the owner of the business, I would like to be able to see both the net price and wholesale price within the ordering system, so money in and out can be tracked easily
+* As a business we need to earn money to pay our employed manager and cover costs such as delivery and gst so we can continue to survive and grow
+
+**Customer**
+* As a bike rider I enjoy the quality and friendliness of the back2bikes volunteers but feel like their ordering system is slow and confusing
+* As an owner of many bikes I like to get my bikes fixed quickly and cheaply. I get confused when I see on the back2bikes ordering website that a price is $30 but they charge me $60
+* As a customer, I would like to see the final price that it will cost me to fix/service my bicycle so I don't have to do any additional calculations myself
+* As a customer I like transparent costing so I don't encounter any hidden costs later on
 
 ### 5. Identify and describe the software (including databases) to be used in your App.
 
