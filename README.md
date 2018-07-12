@@ -3,6 +3,13 @@
 
 ### 5. Identify and describe the software (including databases) to be used in your App.
 
+* **React**
+  * React is a front-end framework to help build websites through segregated components. We can then combine these components to create a UI that is fast, reactive and functional. We will be using react to create Back2Bikes Parts ordering system alongside Meteor.
+* **Meteor**
+  * Meteor is a full-stack JavaScript platform, which allows development in one language (JavaScript) across all environments. There are a few key components that make meteor unique, such as:
+    * Meteor doesn't send HTML over the network. The server sends data and lets the client render it.
+    * The database methods are available everywhere. You can   use these within the client and the server.
+    * Meteor prefetches data and simulates models to make it seem like server method calls are returned instantly.<br/>
 * **Visual Studio Code**
   * Visual Studio Code is a source code editor. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring. This is our standard text editor, but some may opt to not use it.
 * **Storybook**
